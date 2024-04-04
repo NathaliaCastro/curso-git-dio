@@ -22,5 +22,3 @@ O objetivo desse curso é ensinar brevemente sobre versionamento de código com 
 O curso é ministrado por [Elidiana Andrade]("https://github.com/elidianaandrade), que atua como Desenvolvedora Front-end.
 
 Após a conclusão das aulas, é necessário realizar um teste de conhecimento e ter no mínimo 70% de acerto nas questões para emissão do certificado com carga horária de 2 horas.
-
-<img src="https://www.dio.me/certificate/8FHUD2TY" alt="Certificado DIO">
