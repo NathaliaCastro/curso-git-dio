@@ -1,6 +1,6 @@
 # **Versionamento de código com Git e GitHub - DIO 2024**
 
-Esse repositório tem a finalidade de armazenar os conteúdos abordados ao longo do curso de Git e GitHub e poderá ser utilizado futuramente para revisões, assim como as aulas podem ser acessadas através da plataforma [Digital Innovation One](https://www.dio.me/).
+Esse repositório tem a finalidade de armazenar os conteúdos abordados ao longo do curso e poderá ser utilizado futuramente para revisões, assim como as aulas podem ser acessadas através da plataforma [Digital Innovation One](https://www.dio.me/).
 
 # 🎯 Objetivo
 
