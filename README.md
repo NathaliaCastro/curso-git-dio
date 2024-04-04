@@ -23,4 +23,4 @@ O curso é ministrado por [Elidiana Andrade]("https://github.com/elidianaandrade
 
 Após a conclusão das aulas, é necessário realizar um teste de conhecimento e ter no mínimo 70% de acerto nas questões para emissão do certificado com carga horária de 2 horas.
 
-
+![Certificado DIO](https://www.dio.me/certificate/8FHUD2TY)
