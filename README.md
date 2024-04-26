@@ -1,3 +1,5 @@
+# Olá! Bem vindo(a) ao meu perfil no GitHub
+
 # **Versionamento de código com Git e GitHub - DIO 2024**
 
 Esse repositório tem a finalidade de armazenar os conteúdos abordados ao longo do curso e poderá ser utilizado futuramente para revisões, assim como as aulas podem ser acessadas através da plataforma [Digital Innovation One](https://www.dio.me/).
